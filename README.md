@@ -1,6 +1,5 @@
 ## Hi, i`m Rodrigo Paris
 * Full Stack MERN Developer
-* Currently living in São Paulo-Brasil 🇧🇷
 * Self-taught
 
 # My Stack 
