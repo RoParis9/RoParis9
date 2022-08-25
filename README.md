@@ -1,7 +1,7 @@
 ## Hi i`m Rodrigo
 
-* Software Developer
-* Studying Backend Development
+* FullStack Software Developer
+* FOSS enthusiastic
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoParis9&layout=compact)](https://github.com/RoParis9/github-readme-stats)
 <div>
