@@ -1,11 +1,9 @@
-## Hi i`m Rodrigo
+<h2>Hi i`m Rodrigo</h2>
 
-* Software Developer
-* FOSS enthusiastic
+Passionate software developer specializing in backend technologies with a strong focus on Java.
+I have a deep interest in functional programming paradigms and their application in building robust and scalable systems.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoParis9&layout=compact)](https://github.com/RoParis9/github-readme-stats)
-<div>
-<a href="https://www.linkedin.com/in/rodrigo-costa-paris/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-</a>
- </div>
+Linkedin: [@rodrigo-costa-paris](https://www.linkedin.com/in/rodrigo-costa-paris/)
+
+I'm always open to new opportunities, collaboration, or simply discussing interesting ideas. <br>
+Feel free to reach out to me via email at: rocostaparis@hotmail.com
