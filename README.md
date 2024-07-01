@@ -1,4 +1,7 @@
-<h2>Hi i`m Rodrigo</h2>
+
+
+
+<h2>About Me</h2>
 
 Passionate software developer specializing in backend technologies with a strong focus on Java.
 I have a deep interest in functional programming paradigms and their application in building robust and scalable systems.
