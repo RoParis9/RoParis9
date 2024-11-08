@@ -7,5 +7,4 @@ Passionate software developer specializing in full-stack technologies with a str
 
 Linkedin: [@rodrigo-costa-paris](https://www.linkedin.com/in/rodrigo-costa-paris/)
 
-I'm always open to new opportunities, collaboration, or simply discussing interesting ideas. <br>
-Feel free to reach out to me via email at: rocostaparis@hotmail.com
+
